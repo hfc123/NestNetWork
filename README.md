@@ -10,7 +10,7 @@
 
 # Installation
 
-[Download apk](app/debug/app debug.apk)
+[Download apk](app/debug/app-debug.apk)
 
 # Using
 
