@@ -6,7 +6,7 @@
 
 #Preview
 
-! [image] (preview/preview1. jpg)
+![image](preview/preview1. jpg)
 
 #Installation
 
